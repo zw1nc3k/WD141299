@@ -1,0 +1,9 @@
+a=8
+b=4
+c=5
+print(a+b+c)
+print(a-b+c)
+print(a/b)
+print(a+b/c)
+print(a//b)
+print(a*b*c)
