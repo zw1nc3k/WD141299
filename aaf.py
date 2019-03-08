@@ -1,5 +1,5 @@
 a = (input("C-Celcjusz,K-Kelwin,F-Fahrenheit: "))
-b = int(input("Podaj temperature: "))
+b = float(input("Podaj temperature: "))
 if a == "C" and a != -273.15:
     print("Podales ", b, " stopni Celcjusza")
     print("Kelwin: ", b+273.15)
