@@ -1,0 +1,11 @@
+a = input("1. string: ")
+b = input("2. string: ")
+c = input("3. string: ")
+d = input("4. string: ")
+e = input("5. string: ")
+print("1. string: ", a+ " ma dlugosc: ", len(a), " znakow")
+print("2. string: ", a+ " ma dlugosc: ", len(b), " znakow")
+print("3. string: ", a+ " ma dlugosc: ", len(c), " znakow")
+print("4. string: ", a+ " ma dlugosc: ", len(d), " znakow")
+print("5. string: ", a+ " ma dlugosc: ", len(e), " znakow")
+
